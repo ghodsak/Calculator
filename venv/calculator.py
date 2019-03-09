@@ -3,6 +3,7 @@ import tkinter as tk
 
 
 window = tk.Tk()1
+new_line
 window.title("Calculator")
 window.configure(bg="darkgray")
 
