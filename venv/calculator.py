@@ -2,7 +2,7 @@ from tkinter import*
 import tkinter as tk
 
 
-window = tk.Tk()
+window = tk.Tk()1
 window.title("Calculator")
 window.configure(bg="darkgray")
 
